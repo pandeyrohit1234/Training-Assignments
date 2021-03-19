@@ -1,0 +1,15 @@
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.csprojAssemblyReference.cache
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.AssemblyInfo.cs
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\myfirstappp.deps.json
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\myfirstappp.runtimeconfig.json
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\myfirstappp.runtimeconfig.dev.json
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\myfirstappp.dll
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\ref\myfirstappp.dll
+C:\Users\LENOVO\myfirstappp\bin\Debug\net5.0\myfirstappp.pdb
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.dll
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\ref\myfirstappp.dll
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.pdb
+C:\Users\LENOVO\myfirstappp\obj\Debug\net5.0\myfirstappp.genruntimeconfig.cache
