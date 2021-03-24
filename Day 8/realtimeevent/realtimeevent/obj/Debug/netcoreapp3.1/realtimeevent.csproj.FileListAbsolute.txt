@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.exe
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.deps.json
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.runtimeconfig.json
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.dll
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\bin\Debug\netcoreapp3.1\realtimeevent.pdb
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.dll
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.pdb
+C:\Users\LENOVO\source\repos\realtimeevent\realtimeevent\obj\Debug\netcoreapp3.1\realtimeevent.genruntimeconfig.cache
