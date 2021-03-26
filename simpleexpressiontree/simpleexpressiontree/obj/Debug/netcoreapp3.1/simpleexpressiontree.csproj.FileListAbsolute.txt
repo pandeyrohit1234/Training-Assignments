@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.exe
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.deps.json
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.runtimeconfig.json
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.dll
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\bin\Debug\netcoreapp3.1\simpleexpressiontree.pdb
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.dll
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.pdb
+C:\Users\LENOVO\source\repos\simpleexpressiontree\simpleexpressiontree\obj\Debug\netcoreapp3.1\simpleexpressiontree.genruntimeconfig.cache
