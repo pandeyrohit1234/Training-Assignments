@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Binding';
+  title = 'Data Binding';
   isDataBindingVisible = true;
   isProductComponentVisible = false;
   showdemo() :void

@@ -24,7 +24,7 @@ export class ProductComponent implements OnInit {
         },
         {
           Id:2,
-          Title : "camera",
+          Title : "Camera",
           Price :55,
           ExpiryDate :"18-02-2021",
           isInstock : true,
@@ -32,7 +32,7 @@ export class ProductComponent implements OnInit {
         },
         {
           Id:3,
-          Title : "byke",
+          Title : "Bike",
           Price :49,
           ExpiryDate :"09-02-2021",
           isInstock : false,
