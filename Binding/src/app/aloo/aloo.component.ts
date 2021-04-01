@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-aloo',
@@ -7,13 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AlooComponent implements OnInit {
 
+  
+
   constructor() { }
 
   ngOnInit(): void {
   }
   height=300;
   width=300;
-  imgSource='../assets/front.jng';
+  imgSource='../assets/front.jpg';
 
   changeTshirtMouseEnter():void{
     this.imgSource='../assets/back.jpg';

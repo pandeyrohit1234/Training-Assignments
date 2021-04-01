@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit,Input } from '@angular/core';
 import {IProd} from './IProd';
 @Component({
   selector: 'app-product',
@@ -6,6 +6,8 @@ import {IProd} from './IProd';
   styleUrls: ['./product.component.css']
 })
 export class ProductComponent implements OnInit {
+  
+  //@Input() count: number=0;
   products : IProd[] = [];
   constructor() { }
 

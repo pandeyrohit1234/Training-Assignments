@@ -4,21 +4,27 @@
   </div>
  
   <div class="row">
-    <div class="col-md-2">
-    </div>
+  
     <div class="col-md-4">
       <button class="btn btn-danger" (click)='showdemo()'>T-shirt (Data Binding) </button>
     </div>
-    <div class = "col-md-2"></div>
+    
     <div class="col-md-4">
       <button class="btn btn-warning" (click)='showProductComponent()'>Product Details</button>
     </div>
-    <div class="col-md-2">
+  
+    
+    <div class="col-md-4">
+      <button class="btn btn-warning" (click)='showpurchase()'>Master Details</button>
     </div>
+  
+  <div class="col-md-2">
   </div>
- 
+ <br>
+ <br>
   <div class="row">
     <app-aloo *ngIf="isDataBindingVisible"></app-aloo>
     <app-product *ngIf="isProductComponentVisible"></app-product>
+    <app-purchase *ngIf="showPurchase"></app-purchase>
   </div>
 </div>
