@@ -1,4 +1,5 @@
 import { Component, OnInit,Input } from '@angular/core';
+import { DataserviceService } from '../dataservice.service';
 import {IProd} from './IProd';
 @Component({
   selector: 'app-product',
@@ -9,49 +10,13 @@ export class ProductComponent implements OnInit {
   
   //@Input() count: number=0;
   products : IProd[] = [];
-  constructor() { }
+  constructor( private dataserviceservice:DataserviceService) { }
 
   ngOnInit(): void {
-    this.products=this.getProduct();
+   // this.products=this.getProduct();
+   this.products = this.dataserviceservice.getProduct();
   }
-    getProduct(): IProd[] {
-      return [
-        {
-          Id:1,
-          Title : "Pen",
-          Price :45,
-          ExpiryDate :"07-02-2021",
-          isInstock : false,
-          Quantity :2
-        },
-        {
-          Id:2,
-          Title : "Camera",
-          Price :55,
-          ExpiryDate :"18-02-2021",
-          isInstock : true,
-          Quantity: 4
-        },
-        {
-          Id:3,
-          Title : "Bike",
-          Price :49,
-          ExpiryDate :"09-02-2021",
-          isInstock : false,
-          Quantity: 5
-        },
-        {
-          Id:4,
-          Title : "Car",
-          Price :60,
-          ExpiryDate :"05-02-2021",
-          isInstock : true,
-          Quantity :7
-        }
-      ]
-    }
-  
-  
-  
+  searctext:string;
+  filterprice:number;
   
 }

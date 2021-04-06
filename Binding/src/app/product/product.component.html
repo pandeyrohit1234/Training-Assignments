@@ -1,4 +1,9 @@
+
+<br>
+<input type="text" [(ngModel)] = "searctext" placeholder="enter title">
+<input type="text" [(ngModel)] = "filterprice" placeholder="enter second">
 <div class="row">
+
    <table class="table">
        <thead>
            <tr>
@@ -18,12 +23,12 @@
                     Quantity
                 </th>  
                 <th>
-                     Stock
+                     inStock
                 </th>  
               </tr>
             </thead>  
         <tbody>
-            <tr *ngFor= "let p of products">
+            <tr *ngFor= "let p of products | productsearch : searctext | custompipe : filterprice">
                 <td>{{p.Id}}</td>
                 <td>{{p.Title}}</td>
                 <td>{{p.Price}}</td>

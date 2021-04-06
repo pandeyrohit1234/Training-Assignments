@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { MyerrorhandlerService } from '../myerrorhandler.service';
 
 @Component({
   selector: 'app-aloo',
@@ -9,12 +10,15 @@ export class AlooComponent implements OnInit {
 
   
 
-  constructor() { }
+  constructor(private MyerrorhandlerService : MyerrorhandlerService ) { }
+  a = undefined;
 
   ngOnInit(): void {
   }
   height=300;
   width=300;
+  
+ 
   imgSource='../assets/front.jpg';
 
   changeTshirtMouseEnter():void{
@@ -24,5 +28,9 @@ export class AlooComponent implements OnInit {
   changeTshirtMouseExit():void{
     this.imgSource='../assets/front.jpg';
   }
+  generate(): void{
+    this.a.sort();
+  }
+  
 
 }
