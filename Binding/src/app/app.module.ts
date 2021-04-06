@@ -22,6 +22,9 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { ProductsearchPipe } from './productsearch.pipe';
 import { CustompipePipe } from './custompipe.pipe';
+import {​​​​​​​​MatTableModule}​​​​​​​​ from '@angular/material/table';
+
+
 
 @NgModule({
   declarations: [
@@ -40,7 +43,8 @@ import { CustompipePipe } from './custompipe.pipe';
     HomeComponent,
     LoginComponent,
     ProductsearchPipe,
-    CustompipePipe
+    CustompipePipe,
+    
 
   ],
   imports: [
@@ -49,7 +53,8 @@ import { CustompipePipe } from './custompipe.pipe';
     ReactiveFormsModule,
     BrowserAnimationsModule,
     MatExpansionModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatTableModule
    ],
   providers: [{provide:ErrorHandler,useClass:MyerrorhandlerService}],
   bootstrap: [AppComponent]

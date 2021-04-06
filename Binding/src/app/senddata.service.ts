@@ -11,8 +11,8 @@ export class SenddataService {
   }
   product={
     Id : 1,
-    Title : "hello",
-    Price : 132,
+    Title : "Microsoft",
+    Price : 1000,
     ExpiryDate: "02-03-2021",
     isInstock: true,
     Quantity: 2

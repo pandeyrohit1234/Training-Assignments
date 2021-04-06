@@ -19,4 +19,9 @@ export class ProductComponent implements OnInit {
   searctext:string;
   filterprice:number;
   
+
+displayedColumns: string[] = ['ID', 'TITLE', 'Price', 'ExpiryDate', 'Quantity' ];
+
+
+  
 }
