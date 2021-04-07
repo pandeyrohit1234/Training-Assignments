@@ -1,0 +1,40 @@
+<!-- <div class="row">
+    <h2 class="text-danger text-center">Master- Details using component communication</h2>
+</div>
+<hr>
+<div class="row">
+    <table class="table table-borderless">
+        <thead class="thread-dark">
+            <tr>
+                <th>Id</th>
+                <th>Purchase Name</th>
+            </tr>
+        </thead>
+ 
+        <tbody>
+            <tr *ngFor="let p of purchases">
+                <td>{{p.Id}}</td>
+                <td><button class="btn btn-link">{{p.Name}}</button></td>
+            </tr>
+        </tbody>
+    </table>
+    </div> -->
+    <br>
+    <br>
+    <div class="col-md-12">
+        <mat-accordion class="example-headers-align" >
+            <mat-expansion-panel *ngFor="let p of purchases">
+            <mat-expansion-panel-header>
+            <mat-panel-title>
+                <h2>{{p.Id}}</h2>
+            </mat-panel-title>
+            <mat-panel-description>
+                <h2 class="text-info">{{p.Name}}</h2>
+            </mat-panel-description>
+            </mat-expansion-panel-header>
+            <app-purchaseorder [PurchaseItem] ='p'></app-purchaseorder>
+        </mat-expansion-panel>
+        </mat-accordion>
+    </div>
+     
+    
